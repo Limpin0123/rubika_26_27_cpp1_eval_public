@@ -13,16 +13,43 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Header Files\Strategies">
+      <UniqueIdentifier>{febabd47-4a16-4a78-8592-fb4cb56af011}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Strategies">
+      <UniqueIdentifier>{45fbd137-0490-495e-b6c9-0e59556dfe4e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="GameTheory.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="AlwaysCooperate.cpp">
+      <Filter>Source Files\Strategies</Filter>
+    </ClCompile>
+    <ClCompile Include="AlwaysBetray.cpp">
+      <Filter>Source Files\Strategies</Filter>
+    </ClCompile>
+    <ClCompile Include="TitforTat.cpp">
+      <Filter>Source Files\Strategies</Filter>
+    </ClCompile>
+    <ClCompile Include="Resentful.cpp">
+      <Filter>Source Files\Strategies</Filter>
+    </ClCompile>
+    <ClCompile Include="Tournament.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Random.cpp">
+      <Filter>Source Files\Strategies</Filter>
+    </ClCompile>
+    <ClCompile Include="Prober.cpp">
+      <Filter>Source Files\Strategies</Filter>
+    </ClCompile>
+    <ClCompile Include="Pavlov.cpp">
+      <Filter>Source Files\Strategies</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="IStrategy.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="Choice.h">
       <Filter>Header Files</Filter>
     </ClInclude>
@@ -31,6 +58,30 @@
     </ClInclude>
     <ClInclude Include="Tournament.h">
       <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AlwaysCooperate.h">
+      <Filter>Header Files\Strategies</Filter>
+    </ClInclude>
+    <ClInclude Include="IStrategy.h">
+      <Filter>Header Files\Strategies</Filter>
+    </ClInclude>
+    <ClInclude Include="AlwaysBetray.h">
+      <Filter>Header Files\Strategies</Filter>
+    </ClInclude>
+    <ClInclude Include="TitforTat.h">
+      <Filter>Header Files\Strategies</Filter>
+    </ClInclude>
+    <ClInclude Include="Resentful.h">
+      <Filter>Header Files\Strategies</Filter>
+    </ClInclude>
+    <ClInclude Include="Random.h">
+      <Filter>Header Files\Strategies</Filter>
+    </ClInclude>
+    <ClInclude Include="Pavlov.h">
+      <Filter>Header Files\Strategies</Filter>
+    </ClInclude>
+    <ClInclude Include="Prober.h">
+      <Filter>Header Files\Strategies</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

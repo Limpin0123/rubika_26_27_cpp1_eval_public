@@ -127,12 +127,27 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="AlwaysBetray.cpp" />
+    <ClCompile Include="AlwaysCooperate.cpp" />
     <ClCompile Include="GameTheory.cpp" />
+    <ClCompile Include="Pavlov.cpp" />
+    <ClCompile Include="Prober.cpp" />
+    <ClCompile Include="Random.cpp" />
+    <ClCompile Include="Resentful.cpp" />
+    <ClCompile Include="TitforTat.cpp" />
+    <ClCompile Include="Tournament.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="AlwaysBetray.h" />
+    <ClInclude Include="AlwaysCooperate.h" />
     <ClInclude Include="Choice.h" />
     <ClInclude Include="IStrategy.h" />
+    <ClInclude Include="Pavlov.h" />
+    <ClInclude Include="Prober.h" />
+    <ClInclude Include="Random.h" />
     <ClInclude Include="Ranking.h" />
+    <ClInclude Include="Resentful.h" />
+    <ClInclude Include="TitforTat.h" />
     <ClInclude Include="Tournament.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

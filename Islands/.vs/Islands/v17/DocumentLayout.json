@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Github\\rubika_26_27_cpp1_eval_public\\Islands\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E751C62-F567-49DB-A856-62B178A7D526}|Islands.vcxproj|C:\\Github\\rubika_26_27_cpp1_eval_public\\Islands\\Islands.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1E751C62-F567-49DB-A856-62B178A7D526}|Islands.vcxproj|solutionrelative:Islands.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Islands.cpp",
+              "DocumentMoniker": "C:\\Github\\rubika_26_27_cpp1_eval_public\\Islands\\Islands.cpp",
+              "RelativeDocumentMoniker": "Islands.cpp",
+              "ToolTip": "C:\\Github\\rubika_26_27_cpp1_eval_public\\Islands\\Islands.cpp",
+              "RelativeToolTip": "Islands.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAmwDoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-16T14:45:22.557Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
